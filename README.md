@@ -1,7 +1,7 @@
 neurena
 ============
 
-platform of programmers games.
+Platform of programmers games.
 
 Running: node neurena.js
 
