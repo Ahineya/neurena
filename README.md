@@ -1,11 +1,9 @@
-node-modular
+neurena
 ============
 
-Short framework with live modules deploy, modules state saving, syslog and sockets.
+platform of programmers games.
 
-Running: node main.js
+Running: node neurena.js
 
-When main.js is loaded, we can edit and add modules, edit config.json etc. And they will do automatical reload.
-
-Simple module example in /modules/test/test.js
+Simple module example in /modules/player1/player1.js
 
